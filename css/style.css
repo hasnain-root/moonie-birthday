@@ -17,10 +17,12 @@
   margin-top: 20px;
   top: 0;
   left: 0;
-  color: rgb(247, 77, 173);
+  /* color: rgb(170, 127, 185); */
+  color: rgb(233 224 158);
   font-family: 'Courier New', Courier, monospace;
-  font-size: 60px;
-  text-shadow: 0px 0px 20px rgb(247, 77, 173);
+  font-size: 45px;
+  /* text-shadow: 0px 0px 20px rgb(247, 77, 173); */
+  text-shadow: 0px -6px 11px rgb(233 224 158);
 }
 
 body {
